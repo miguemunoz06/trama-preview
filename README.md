@@ -1,14 +1,14 @@
 # Trama Pasta Fresca — preview
 
-Redesign da web no mesmo sistema visual do **Grano Pasta Fresca** (Chiado):
+Redesign no mesmo sistema visual do Grano:
+https://fast-chicory-b4bhn.shipped.run/
 
-- Bordô da fachada + creme + serif editorial
-- Palavra-marca gigante, tríptico de fotos, bloco Visit us
-- Carta digital, história da casa, mapa, WhatsApp / TheFork / Instagram
-- PT / EN e schema.org Restaurant
+- Bordô #6B1C22 (fachada e cadeiras)
+- Cormorant Garamond + Outfit
+- Hero a sangue, barra de dados, assinatura, ementa por tabs, reserva WhatsApp
+- PT / EN / ES
 
-Abrir `index.html`.
+Repo: https://github.com/miguemunoz06/trama-preview
 
-Preview: https://htmlpreview.github.io/?https://github.com/miguemunoz06/trama-preview/blob/main/index.html
-
-Site actual: https://www.tramapastafresca.com/
+Abrir `index.html` ou, em Pages: Settings → Pages → Deploy from branch `main`.
+Preview temporário: https://litter.catbox.moe/mh7k7u.html
